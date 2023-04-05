@@ -73,5 +73,5 @@ const year = currentDate.getFullYear();
         })
     }
 })
-
+// "test": "echo \"Error: no test specified\" && exit 1"
 module.exports = app;
